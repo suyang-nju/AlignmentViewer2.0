@@ -400,7 +400,6 @@ export class Alignment {
         }
       }
     }
-
     if(!supressParseTime){
       console.log(
         "done parsing alignment. took " +
