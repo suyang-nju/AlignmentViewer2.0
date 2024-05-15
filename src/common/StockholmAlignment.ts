@@ -186,7 +186,7 @@ export class StockholmAlignment extends Alignment {
         }
       }
     }
-
+  
     try {
       return new StockholmAlignment({
         name: fileName,
